@@ -1,0 +1,22 @@
+{
+  "name": "tfthelper",
+  "version": "0.0.1",
+  "description": "An app which intends to help with decision making during a match of Team Fight Tactics ( TFT )",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexkollan/tfthelper.git"
+  },
+  "author": "Alex Collin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexkollan/tfthelper/issues"
+  },
+  "homepage": "https://github.com/alexkollan/tfthelper#readme",
+  "dependencies": {
+    "electron": "^6.0.0"
+  }
+}
