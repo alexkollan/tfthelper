@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/alexkollan/tfthelper#readme",
   "dependencies": {
-    "electron": "^6.0.0"
+    "electron": "^11.5.0"
   }
 }
